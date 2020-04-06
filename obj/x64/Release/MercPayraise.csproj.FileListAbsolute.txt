@@ -1,0 +1,6 @@
+Y:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\MercPayraise\bin\Win64_Shipping_Client\MercPayraise.dll
+Y:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\MercPayraise\bin\Win64_Shipping_Client\MercPayraise.pdb
+C:\Users\Ian\source\repos\MercPayraise\obj\x64\Release\MercPayraise.csproj.CoreCompileInputs.cache
+C:\Users\Ian\source\repos\MercPayraise\obj\x64\Release\MercPayraise.dll
+C:\Users\Ian\source\repos\MercPayraise\obj\x64\Release\MercPayraise.pdb
+C:\Users\Ian\source\repos\MercPayraise\obj\x64\Release\MercPayraise.csproj.CopyComplete
