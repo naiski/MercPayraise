@@ -17,7 +17,7 @@ namespace MercPayraise
             }
             catch (Exception ex)
             {
-                //MessageBox.Show($"Error Initialising Bannerlord Tweaks:\n\n{ex.ToStringFull()}");
+                // TODO: Handle this.
             }
         }
 

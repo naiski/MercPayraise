@@ -1,7 +1,0 @@
-C:\Users\Ian\source\repos\MercPayraise\obj\x64\Debug\MercPayraise.csprojAssemblyReference.cache
-C:\Users\Ian\source\repos\MercPayraise\obj\x64\Debug\MercPayraise.csproj.CoreCompileInputs.cache
-Y:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\MercPayraise\bin\Win64_Shipping_Client\MercPayraise.dll
-Y:\SteamLibrary\steamapps\common\Mount & Blade II Bannerlord\Modules\MercPayraise\bin\Win64_Shipping_Client\MercPayraise.pdb
-C:\Users\Ian\source\repos\MercPayraise\obj\x64\Debug\MercPayraise.dll
-C:\Users\Ian\source\repos\MercPayraise\obj\x64\Debug\MercPayraise.pdb
-C:\Users\Ian\source\repos\MercPayraise\obj\x64\Debug\MercPayraise.csproj.CopyComplete
