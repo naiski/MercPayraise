@@ -234,7 +234,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MercPayraiseConfig.cs" />
+    <Compile Include="MercPayraiseViewModel.cs" />
     <Compile Include="MercPayraise.cs" />
+    <Compile Include="MercPayraiseGauntletScreen.cs" />
     <Compile Include="SubModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -242,4 +245,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
 </Project>
